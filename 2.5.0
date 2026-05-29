@@ -1,0 +1,91 @@
+Collecting tensorflow
+  Downloading tensorflow-2.13.1-cp38-cp38-win_amd64.whl (1.9 kB)
+  Downloading tensorflow-2.13.0-cp38-cp38-win_amd64.whl (1.9 kB)
+Collecting tensorflow-intel==2.13.0
+  Downloading tensorflow_intel-2.13.0-cp38-cp38-win_amd64.whl (276.5 MB)
+Collecting packaging
+  Downloading packaging-24.2-py3-none-any.whl (65 kB)
+Collecting tensorflow-estimator<2.14,>=2.13.0
+  Downloading tensorflow_estimator-2.13.0-py2.py3-none-any.whl (440 kB)
+Collecting keras<2.14,>=2.13.1
+  Downloading keras-2.13.1-py3-none-any.whl (1.7 MB)
+Collecting typing-extensions<4.6.0,>=3.6.6
+  Downloading typing_extensions-4.5.0-py3-none-any.whl (27 kB)
+Collecting wrapt>=1.11.0
+  Downloading wrapt-1.17.2-cp38-cp38-win_amd64.whl (38 kB)
+Collecting tensorboard<2.14,>=2.13
+  Downloading tensorboard-2.13.0-py3-none-any.whl (5.6 MB)
+Collecting termcolor>=1.1.0
+  Downloading termcolor-2.4.0-py3-none-any.whl (7.7 kB)
+Collecting gast<=0.4.0,>=0.2.1
+  Downloading gast-0.4.0-py3-none-any.whl (9.8 kB)
+Requirement already satisfied: setuptools in c:\users\hello\appdata\local\programs\python\python38\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (56.0.0)
+Collecting flatbuffers>=23.1.21
+  Downloading flatbuffers-25.2.10-py2.py3-none-any.whl (30 kB)
+Collecting protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.20.3
+  Downloading protobuf-4.25.6-cp38-cp38-win_amd64.whl (413 kB)
+Collecting tensorflow-io-gcs-filesystem>=0.23.1
+  Downloading tensorflow_io_gcs_filesystem-0.31.0-cp38-cp38-win_amd64.whl (1.5 MB)
+Collecting absl-py>=1.0.0
+  Downloading absl_py-2.2.2-py3-none-any.whl (135 kB)
+Collecting grpcio<2.0,>=1.24.3
+  Downloading grpcio-1.70.0-cp38-cp38-win_amd64.whl (4.3 MB)
+Collecting numpy<=1.24.3,>=1.22
+  Downloading numpy-1.24.3-cp38-cp38-win_amd64.whl (14.9 MB)
+Collecting google-pasta>=0.1.1
+  Downloading google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Collecting libclang>=13.0.0
+  Downloading libclang-18.1.1-py2.py3-none-win_amd64.whl (26.4 MB)
+Collecting h5py>=2.9.0
+  Downloading h5py-3.11.0-cp38-cp38-win_amd64.whl (3.0 MB)
+Collecting astunparse>=1.6.0
+  Downloading astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Collecting opt-einsum>=2.3.2
+  Downloading opt_einsum-3.4.0-py3-none-any.whl (71 kB)
+Requirement already satisfied: six>=1.12.0 in c:\users\hello\appdata\local\programs\python\python38\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.17.0)
+Collecting wheel<1.0,>=0.23.0
+  Downloading wheel-0.45.1-py3-none-any.whl (72 kB)
+Collecting google-auth-oauthlib<1.1,>=0.5
+  Downloading google_auth_oauthlib-1.0.0-py2.py3-none-any.whl (18 kB)
+Collecting google-auth<3,>=1.6.3
+  Downloading google_auth-2.38.0-py2.py3-none-any.whl (210 kB)
+Collecting werkzeug>=1.0.1
+  Downloading werkzeug-3.0.6-py3-none-any.whl (227 kB)
+Collecting requests<3,>=2.21.0
+  Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+Collecting tensorboard-data-server<0.8.0,>=0.7.0
+  Downloading tensorboard_data_server-0.7.2-py3-none-any.whl (2.4 kB)
+Collecting markdown>=2.6.8
+  Downloading Markdown-3.7-py3-none-any.whl (106 kB)
+Collecting rsa<5,>=3.1.4
+  Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Collecting pyasn1-modules>=0.2.1
+  Downloading pyasn1_modules-0.4.2-py3-none-any.whl (181 kB)
+Collecting cachetools<6.0,>=2.0.0
+  Downloading cachetools-5.5.2-py3-none-any.whl (10 kB)
+Collecting requests-oauthlib>=0.7.0
+  Downloading requests_oauthlib-2.0.0-py2.py3-none-any.whl (24 kB)
+Collecting importlib-metadata>=4.4
+  Downloading importlib_metadata-8.5.0-py3-none-any.whl (26 kB)
+Collecting zipp>=3.20
+  Downloading zipp-3.20.2-py3-none-any.whl (9.2 kB)
+Collecting pyasn1<0.7.0,>=0.6.1
+  Downloading pyasn1-0.6.1-py3-none-any.whl (83 kB)
+Collecting urllib3<3,>=1.21.1
+  Downloading urllib3-2.2.3-py3-none-any.whl (126 kB)
+Collecting charset-normalizer<4,>=2
+  Downloading charset_normalizer-3.4.1-cp38-cp38-win_amd64.whl (102 kB)
+Collecting idna<4,>=2.5
+  Downloading idna-3.10-py3-none-any.whl (70 kB)
+Collecting certifi>=2017.4.17
+  Downloading certifi-2025.1.31-py3-none-any.whl (166 kB)
+Collecting oauthlib>=3.0.0
+  Downloading oauthlib-3.2.2-py3-none-any.whl (151 kB)
+Collecting MarkupSafe>=2.1.1
+  Downloading MarkupSafe-2.1.5-cp38-cp38-win_amd64.whl (17 kB)
+Installing collected packages: urllib3, pyasn1, idna, charset-normalizer, certifi, zipp, rsa, requests, pyasn1-modules, oauthlib, cachetools, requests-oauthlib, MarkupSafe, importlib-metadata, google-auth, wheel, werkzeug, tensorboard-data-server, protobuf, numpy, markdown, grpcio, google-auth-oauthlib, absl-py, wrapt, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard, packaging, opt-einsum, libclang, keras, h5py, google-pasta, gast, flatbuffers, astunparse, tensorflow-intel, tensorflow
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.24.4
+    Uninstalling numpy-1.24.4:
+      Successfully uninstalled numpy-1.24.4
+Successfully installed MarkupSafe-2.1.5 absl-py-2.2.2 astunparse-1.6.3 cachetools-5.5.2 certifi-2025.1.31 charset-normalizer-3.4.1 flatbuffers-25.2.10 gast-0.4.0 google-auth-2.38.0 google-auth-oauthlib-1.0.0 google-pasta-0.2.0 grpcio-1.70.0 h5py-3.11.0 idna-3.10 importlib-metadata-8.5.0 keras-2.13.1 libclang-18.1.1 markdown-3.7 numpy-1.24.3 oauthlib-3.2.2 opt-einsum-3.4.0 packaging-24.2 protobuf-4.25.6 pyasn1-0.6.1 pyasn1-modules-0.4.2 requests-2.32.3 requests-oauthlib-2.0.0 rsa-4.9 tensorboard-2.13.0 tensorboard-data-server-0.7.2 tensorflow-2.13.0 tensorflow-estimator-2.13.0 tensorflow-intel-2.13.0 tensorflow-io-gcs-filesystem-0.31.0 termcolor-2.4.0 typing-extensions-4.5.0 urllib3-2.2.3 werkzeug-3.0.6 wheel-0.45.1 wrapt-1.17.2 zipp-3.20.2
