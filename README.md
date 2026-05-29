@@ -6,7 +6,7 @@ This project was developed out of my strong interest in applying Machine Learnin
 
 The goal of this project is to detect Pulmonary Edema from chest X-ray images using Machine Learning techniques. Through this work, I gained hands-on experience in medical image analysis, data preprocessing, model training, evaluation, and web-based deployment.
 
-This project reflects my curiosity for both Machine Learning and healthcare technology, and it represents my personal effort to learn, experiment, and create a practical solution that can support faster medical screening. Every stage of the project—from research and dataset preparation to model development and implementation—was carried out as part of my independent learning journey.
+This project reflects my curiosity for both Machine Learning and healthcare technology, and it represents my personal effort to learn, experiment, and create a practical solution that can support faster medical screening. Every stage of the project from research and dataset preparation to model development and implementation was carried out as part of my independent learning journey.
 
 **Key Highlights**
 
